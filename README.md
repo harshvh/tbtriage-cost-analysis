@@ -53,13 +53,12 @@ n = 100,000) and two intervention scopes (entire TB+HIV+NCD screening, and
 TB-only). Scripts 02 and 03 read a single scenario at a time via the `n` and
 `intervention` flags set near the top of each file.
 
-## Notes and known issues
+## Note
 
 - **Exchange rate.** ZAR to USD conversion uses a 2023 market average of
   0.05424. LSL is pegged 1:1 to ZAR, so the same rate applies to Lesotho. The
   value is currently hardcoded at each conversion point in 01a/01b; a named
   constant `zar_to_usd` is defined in `00-base-functions.R` for reference.
-
 
 ## Data availability
 
