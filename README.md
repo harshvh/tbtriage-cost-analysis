@@ -1,4 +1,4 @@
-# TB TRIAGE+ cost analysis
+# TB TRIAGE+ comparative cost analysis
 
 R code for the prospective two-country comparative cost analysis of two
 community-based TB active case-finding screening approaches (CAD4TBv7 alone
